@@ -6,9 +6,3 @@ song line 5
 song line 6
 
 some content
-
-song line 7
-song line 8
-song line 9
-song line 10
----------------------
